@@ -38,31 +38,35 @@ Dataset used: **[UCI Cleveland Heart Disease Dataset](https://archive.ics.uci.ed
 
 ---
 
-📈 Results
+## 📈 Results
 
-Accuracy: 89%
+- **Accuracy:** 89%
 
-F1-score: 0.87
+- **F1-score:** 0.87
 
-Precision improvement over baseline: 12%
+- **Precision improvement over baseline:** 12%
 
-Reduced false negatives by 10% after feature engineering and hyperparameter tuning.
+- **Reduced false negatives by 10% after feature engineering and hyperparameter tuning.**
 
-🔮 Future Improvements
+---
 
-Expand Dataset: Integrate larger, multi-source datasets for better generalization.
+## 🔮 Future Improvements
 
-Feature Enhancement: Include lifestyle and genetic factors for more accurate predictions.
+- **Expand Dataset:** Integrate larger, multi-source datasets for better generalization.
 
-Deep Learning Models: Explore neural networks and ensemble methods to boost performance.
+- **Feature Enhancement:** Include lifestyle and genetic factors for more accurate predictions.
 
-Explainability: Implement SHAP/LIME for interpretable predictions.
+- **Deep Learning Models:** Explore neural networks and ensemble methods to boost performance.
 
-Deployment: Build a fully functional web/mobile app with real-time input and secure data handling.
+- **Explainability:** Implement SHAP/LIME for interpretable predictions.
 
-Continuous Learning: Update the model dynamically as new patient data becomes available.
+- **Deployment:** Build a fully functional web/mobile app with real-time input and secure data handling.
 
-Healthcare Integration: Enable EHR (Electronic Health Record) integration for clinical use.
+- **Continuous Learning:** Update the model dynamically as new patient data becomes available.
+
+- **Healthcare Integration:** Enable EHR (Electronic Health Record) integration for clinical use.
+
+---
 
 ## 🚀 Installation
 
