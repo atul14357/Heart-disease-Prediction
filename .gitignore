@@ -1,0 +1,25 @@
+# Byte-compiled / Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Large files / models / data
+best_model.pkl
+scaler.pkl
+*.csv
+*.h5
+*.joblib
